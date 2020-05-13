@@ -25,35 +25,35 @@ The pre-programmed views can be used instantly by copying them to your existing 
 - No Swift UI included
 - Supported devices: from iPhone 6S to iPhone 11 Pro Max
 
-## [E-commerce Design Kit](http://appdesignkit.com/e-commerce-app)
+## [E-commerce App Design Kit](http://appdesignkit.com/e-commerce-app)
 86 iPhone screens included
 <a href='http://appdesignkit.com/e-commerce-app'><img src="https://relatedcode.com/github/102_ecommerce.png" width="880"></a>
 
-## [Finance Design Kit](http://appdesignkit.com/finance-app)
+## [Finance App Design Kit](http://appdesignkit.com/finance-app)
 44 iPhone screens included
 <a href='http://appdesignkit.com/finance-app'><img src="https://relatedcode.com/github/107_finance.png" width="880"></a>
 
-## [Fitness Design Kit](http://appdesignkit.com/fitness-app)
+## [Fitness App Design Kit](http://appdesignkit.com/fitness-app)
 41 iPhone screens included
 <a href='http://appdesignkit.com/fitness-app'><img src="https://relatedcode.com/github/108_fitness.png" width="880"></a>
 
-## [Food Design Kit](http://appdesignkit.com/food-app)
+## [Food App Design Kit](http://appdesignkit.com/food-app)
 47 iPhone screens included
 <a href='http://appdesignkit.com/food-app'><img src="https://relatedcode.com/github/104_food.png" width="880"></a>
 
-## [Media Design Kit](http://appdesignkit.com/media-app)
+## [Media App Design Kit](http://appdesignkit.com/media-app)
 62 iPhone screens included
 <a href='http://appdesignkit.com/media-app'><img src="https://relatedcode.com/github/106_media.png" width="880"></a>
 
-## [Reader Design Kit](http://appdesignkit.com/reader-app)
+## [Reader App Design Kit](http://appdesignkit.com/reader-app)
 82 iPhone screens included
 <a href='http://appdesignkit.com/reader-app'><img src="https://relatedcode.com/github/105_reader.png" width="880"></a>
 
-## [Social Design Kit](http://appdesignkit.com/social-app)
+## [Social App Design Kit](http://appdesignkit.com/social-app)
 74 iPhone screens included
 <a href='http://appdesignkit.com/social-app'><img src="https://relatedcode.com/github/101_social.png" width="880"></a>
 
-## [Travel Design Kit](http://appdesignkit.com/travel-app)
+## [Travel App Design Kit](http://appdesignkit.com/travel-app)
 43 iPhone screens included
 <a href='http://appdesignkit.com/travel-app'><img src="https://relatedcode.com/github/103_travel.png" width="880"></a>
 
