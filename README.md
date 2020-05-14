@@ -1,4 +1,4 @@
-<a href='https://github.com/relatedcode/appdesignkit'><img src="https://relatedcode.com/github/header15.png" width="880"></a>
+<a href='https://github.com/relatedcode/appdesignkit'><img src="https://relatedcode.com/github/header16.png" width="880"></a>
 
 ## OVERVIEW
 
@@ -31,11 +31,11 @@ The pre-programmed views can be used instantly by copying them to your existing 
 
 ## [Finance App Design Kit](http://appdesignkit.com/finance-app)
 44 iPhone screens included
-<a href='http://appdesignkit.com/finance-app'><img src="https://relatedcode.com/github/107_finance.png" width="880"></a>
+<a href='http://appdesignkit.com/finance-app'><img src="https://relatedcode.com/github/107_finance2.png" width="880"></a>
 
 ## [Fitness App Design Kit](http://appdesignkit.com/fitness-app)
 41 iPhone screens included
-<a href='http://appdesignkit.com/fitness-app'><img src="https://relatedcode.com/github/108_fitness.png" width="880"></a>
+<a href='http://appdesignkit.com/fitness-app'><img src="https://relatedcode.com/github/108_fitness2.png" width="880"></a>
 
 ## [Food App Design Kit](http://appdesignkit.com/food-app)
 47 iPhone screens included
